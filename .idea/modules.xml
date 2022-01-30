@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Monarque.iml" filepath="$PROJECT_DIR$/.idea/Monarque.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/wp5-starter-react-main/.idea/wp5-starter-react-main.iml" filepath="$USER_HOME$/Downloads/wp5-starter-react-main/.idea/wp5-starter-react-main.iml" />
     </modules>
   </component>
 </project>
